@@ -10,7 +10,9 @@
 
 1. Visit the [Neuron official website](https://www.neuron.yale.edu/neuron/)
 2. Download the installer for your platform.
-3. Follow the installation instructions for your OS.
+3. Install dependencies
+4. Configure environment
+5. Follow the installation instructions for your OS.
 
 ## Verification
 
