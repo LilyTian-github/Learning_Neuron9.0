@@ -1,0 +1,9 @@
+# Neuron 9.0 Basic Concepts
+## Date: 2024-01-XX
+
+### Core Features
+- Feature 1: ...
+- Feature 2: ...
+
+### Key Learnings
+Today I learned about...
