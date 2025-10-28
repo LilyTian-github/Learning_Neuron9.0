@@ -1,5 +1,5 @@
 # Neuron 9.0 Basic Concepts
-## Date: 2024-01-XX
+## Date: 10-27-2025
 
 ### Core Features
 - Feature 1: ...
