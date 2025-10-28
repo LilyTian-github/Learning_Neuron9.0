@@ -44,6 +44,46 @@ This repository documents my journey of learning Neuron 9.0 software.
 
 Feel free to explore the directories. The content is organized by learning stage and topic.
 
+## Daily Workflow
+### Daily Update Routine:
+Document Learning: Add daily notes in notes/ folder
+
+Save Code: Store practice code in examples/
+
+Collect Resources: Add useful links to resources/
+
+Update Progress: Mark completed tasks in project files
+
+### Weekly Maintenance:
+Organize folder structure
+
+Review learning progress
+
+Update README with current status
+
+### Quick Start Actions:
+Immediate Steps:
+
+Create README.md
+
+Create notes/ folder and first note
+
+Create tutorials/installation.md
+
+### Progressive Development:
+
+Add notes after each learning session
+
+Organize code examples weekly
+
+Document challenges and solutions
+
+### Build Habits:
+
+Learn → Practice → Document → Organize
+
+Use this repository as your learning journal
+
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
