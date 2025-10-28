@@ -1,14 +1,13 @@
-# Useful Resources
+# Learning Resources
 
-## Official
+## Official Documentation
+- [Neuron Official Website](http://...)
+- [User Manual](http://...)
 
-- [Neuron Website](https://www.neuron.yale.edu/neuron/)
-- [Neuron Documentation](https://www.neuron.yale.edu/neuron/docs)
+## Video Tutorials
+- Tutorial 1: ...
+- Tutorial 2: ...
 
-## Tutorials
-
-- [Official Tutorial](https://www.neuron.yale.edu/neuron/static/docs/neuron/tutorial/tutorial.html)
-
-## Books
-
-- "The Book of Neuron" by ...
+## Research Papers
+- Paper 1
+- Paper 2
